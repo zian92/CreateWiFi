@@ -19,8 +19,12 @@ If you can't acces the internet from a connected device do the following:
 Enter the Control Panel to change your adapter settings. (If you don't know where to find them, google that problem depending on your operating system)
 Right-click on the adapter which is connected to the internet. 
 Choose Propertys. 
+
 Hit the Sharing tab.
+
 Allow other users to use your internetconnection. (Probably you can decide, which connection they can use. Choose the one that is connected to the internet!)
+
 Confirm all changes and close the windows.
-\n
+
+
 That should solve your problem.
