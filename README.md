@@ -1,9 +1,10 @@
 #CreateWiFi
-==========
+
 
 How to create your own WiFi with .bat-files.
-----------
-## Installatio
+
+
+### Installation
 
 
 Download the .bat-files and save them at a destination you will find them. (If you download a zip-file, unpack it at first!)
@@ -16,7 +17,7 @@ Now right-click on the wlanstart-file and choose run as administrator. You have 
 
 
 ----------
-## Limited Internet Acces
+### Limited Internet Acces
 
 If you can't acces the internet from a connected device do the following:
 
