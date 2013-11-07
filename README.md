@@ -22,5 +22,5 @@ Choose Propertys.
 Hit the Sharing tab.
 Allow other users to use your internetconnection. (Probably you can decide, which connection they can use. Choose the one that is connected to the internet!)
 Confirm all changes and close the windows.
-
+\n
 That should solve your problem.
